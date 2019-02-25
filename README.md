@@ -15,3 +15,7 @@ A few lines
 ## Lots of things here
 
 ## One last time
+
+## COPYRIGHT
+
+2019 git training
