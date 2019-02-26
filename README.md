@@ -24,3 +24,4 @@ Please fork this repository
 
 This is for rebasing sample, after which I added this text on my feature branch
 Also making changes after stash, this is an emergency!
+Yet another emergency!
