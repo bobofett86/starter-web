@@ -19,3 +19,7 @@ Please fork this repository
 ## COPYRIGHT
 
 2019 git training
+
+## New section
+
+This is for rebasing sample
