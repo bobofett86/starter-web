@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-A few lines
+Please fork this repository
 
 ## A new section
 
